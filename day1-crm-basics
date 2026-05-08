@@ -1,0 +1,84 @@
+
+
+## 1. What is CRM?
+
+CRM (Customer Relationship Management) is a system used by companies to manage customer data, track interactions, improve relationships, and increase sales efficiency. It helps businesses organize customer information in one place.
+
+---
+
+## 2. Why Companies Use Salesforce?
+
+Salesforce is one of the world’s leading CRM platforms. Companies use Salesforce to:
+
+* Manage customer relationships effectively
+* Track sales and business growth
+* Automate business processes
+* Improve customer support
+* Store customer data securely
+* Generate reports and dashboards
+* Increase team productivity
+
+---
+
+## 3. Salesforce Core Objects
+
+### Account
+
+An **Account** represents a company, business, or organization associated with your business.
+
+**Example:** Infosys, Amazon, TCS
+
+---
+
+### Contact
+
+A **Contact** represents a person associated with an Account.
+
+**Example:** HR Manager, CEO, Customer Representative
+
+---
+
+### Opportunity
+
+An **Opportunity** represents a potential sales deal or business opportunity.
+
+**Example:** A software subscription deal worth ₹5,00,000
+
+---
+
+## 4. Real-World Mapping 🌍
+
+| Real World                | Salesforce Object |
+| ------------------------- | ----------------- |
+| Company/Organization      | Account           |
+| Person working in company | Contact           |
+| Business Deal/Sales       | Opportunity       |
+
+### Example Scenario
+
+* **Account:** ABC Technologies
+* **Contact:** Rahul Sharma (Manager)
+* **Opportunity:** CRM Software Purchase Deal
+
+---
+
+## 5. Trailhead Screenshots 📸
+
+### Salesforce Developer: Quick Look & Salesforce CRM
+
+![Trailhead Screenshot 1](./Screenshot%202026-05-08%20225359.png)
+
+---
+
+### Salesforce Values: Quick Look & Trailhead Playground Management
+
+![Trailhead Screenshot 2](./Screenshot%202026-05-08%20225344.png)
+
+---
+
+## Conclusion
+
+Salesforce CRM helps businesses manage customers, improve communication, and streamline sales processes. Understanding Accounts, Contacts, and Opportunities is the foundation for learning Salesforce development and administration.
+
+---
+
